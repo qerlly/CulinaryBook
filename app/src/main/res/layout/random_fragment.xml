@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/random_image"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:scaleType="centerCrop"/>
+
+        <RelativeLayout
+            android:id="@+id/random_name_holder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox android:id="@+id/random_button_favorite"
+                      android:layout_width="70dp"
+                      android:layout_height="70dp"
+                      android:layout_alignParentRight="true"
+                      android:layout_centerVertical="true"
+                      android:visibility="invisible"/>
+
+            <TextView
+                android:id="@+id/random_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/random_button_favorite"
+                android:paddingLeft="20dp"
+                android:textSize="30sp"
+                android:textStyle="bold"/>
+
+        </RelativeLayout>
+
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+
+            <TextView android:id="@+id/random_show_ing"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_gravity="center_horizontal"
+                      android:paddingTop="10dp"
+                      android:text="@string/detail_ing"
+                      android:textSize="30sp"
+                      android:textStyle="italic"
+                      android:visibility="invisible"/>
+
+            <TextView android:id="@+id/random_ingredients"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_gravity="center_horizontal"
+                      android:paddingLeft="10dp"
+                      android:paddingTop="5dp"
+                      android:text="@string/shake_me"
+                      android:textSize="20sp"
+                      android:textStyle="italic"/>
+
+            <TextView android:id="@+id/random_show_rec"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_gravity="center_horizontal"
+                      android:paddingTop="10dp"
+                      android:text="@string/detail_recipe"
+                      android:textSize="30sp"
+                      android:textStyle="italic"
+                      android:visibility="invisible"/>
+
+            <TextView android:id="@+id/random_recipe"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_gravity="center_horizontal"
+                      android:paddingLeft="10dp"
+                      android:paddingTop="5dp"
+                      android:textSize="20sp"
+                      android:textStyle="italic"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

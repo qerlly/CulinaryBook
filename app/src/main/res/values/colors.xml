@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blackPrimaryDark">#000000</color>
+    <color name="blackToolbar">#212121</color>
+    <color name="blackBackground">#303030</color>
+    <color name="blackTextToolbar">@color/colorTextWhite</color>
+    <color name="blackTextCards">@color/colorTextWhite</color>
+    <color name="blackCards">#424242</color>
+
+    <color name="greyPrimaryDark">#E0E0E0</color>
+    <color name="greyToolbar">#6b6969</color>
+    <color name="greyTextToolbar">@color/colorTextGrey</color>
+    <color name="greyTextCards">@color/colorTextGrey</color>
+    <color name="greyBackground">#ececec</color>
+    <color name="greyCards">#f9f9f9</color>
+
+    <color name="blueGreyPrimaryDark">#000000</color>
+    <color name="blueGreyToolbar">#263238</color>
+    <color name="blueGreyTextToolbar">@color/colorTextWhite</color>
+    <color name="blueGreyTextCards">@color/colorTextWhite</color>
+    <color name="blueGreyBackground">#607D8B</color>
+    <color name="blueGreyCards">#78909C</color>
+
+    <color name="deepOrangePrimaryDark">#BF360C</color>
+    <color name="deepOrangeToolbar">#FF5722</color>
+    <color name="deepOrangeTextToolbar">@color/colorTextWhite</color>
+    <color name="deepOrangeTextCards">@color/colorTextBlack</color>
+    <color name="deepOrangeBackground">#FFAB91</color>
+    <color name="deepOrangeCards">#FFCCBC</color>
+
+    <color name="brownPrimaryDark">#3E2723</color>
+    <color name="brownToolbar">#795548</color>
+    <color name="brownTextToolbar">@color/colorTextWhite</color>
+    <color name="brownTextCards">@color/colorTextBlack</color>
+    <color name="brownBackground">#A1887F</color>
+    <color name="brownCards">#c4b7b2</color>
+
+    <color name="lightOrangePrimaryDark">#E65100</color>
+    <color name="lightOrangeToolbar">#F57C00</color>
+    <color name="lightOrangeTextToolbar">@color/colorTextWhite</color>
+    <color name="lightOrangeTextCards">@color/colorTextBlack</color>
+    <color name="lightOrangeBackground">#FFCC80</color>
+    <color name="lightOrangeCards">#FFE0B2</color>
+
+    <color name="yellowPrimaryDark">#F57F17</color>
+    <color name="yellowToolbar">#f5eb62</color>
+    <color name="yellowTextToolbar">@color/colorTextWhite</color>
+    <color name="yellowTextCards">@color/colorTextBlack</color>
+    <color name="yellowBackground">#FFF59D</color>
+    <color name="yellowCards">#FFF9C4</color>
+
+    <color name="greenPrimaryDark">#00C853</color>
+    <color name="greenToolbar">#0dc66b</color>
+    <color name="greenTextToolbar">@color/colorTextWhite</color>
+    <color name="greenTextCards">@color/colorTextBlack</color>
+    <color name="greenBackground">#69F0AE</color>
+    <color name="greenCards">#B9F6CA</color>
+
+    <color name="greenLightPrimaryDark">#64DD17</color>
+    <color name="greenLightToolbar">#57b408</color>
+    <color name="greenLightTextToolbar">@color/colorTextWhite</color>
+    <color name="greenLightTextCards">@color/colorTextBlack</color>
+    <color name="greenLightBackground">#B2FF59</color>
+    <color name="greenLightCards">#CCFF90</color>
+
+    <color name="amberPrimaryDark">#AEEA00</color>
+    <color name="amberToolbar">#a4ca1d</color>
+    <color name="amberTextToolbar">@color/colorTextWhite</color>
+    <color name="amberTextCards">@color/colorTextBlack</color>
+    <color name="amberBackground">#EEFF41</color>
+    <color name="amberCards">#F4FF81</color>
+
+    <color name="tealPrimaryDark">#00BFA5</color>
+    <color name="tealToolbar">#2ed2a9</color>
+    <color name="tealTextToolbar">@color/colorTextWhite</color>
+    <color name="tealTextCards">@color/colorTextBlack</color>
+    <color name="tealBackground">#5df1cd</color>
+    <color name="tealCards">#A7FFEB</color>
+
+    <color name="lightBluePrimaryDark">#0091EA</color>
+    <color name="lightBlueToolbar">#00B0FF</color>
+    <color name="lightBlueTextToolbar">@color/colorTextWhite</color>
+    <color name="lightBlueTextCards">@color/colorTextBlack</color>
+    <color name="lightBlueBackground">#40C4FF</color>
+    <color name="lightBlueCards">#80D8FF</color>
+
+    <color name="bluePrimaryDark">#2962FF</color>
+    <color name="blueToolbar">#2962FF</color>
+    <color name="blueTextToolbar">@color/colorTextWhite</color>
+    <color name="blueTextCards">@color/colorTextBlack</color>
+    <color name="blueBackground">#448aff</color>
+    <color name="blueCards">#82B1FF</color>
+
+    <color name="indigoPrimaryDark">#304FFE</color>
+    <color name="indigoToolbar">#3D5AFE</color>
+    <color name="indigoTextToolbar">@color/colorTextWhite</color>
+    <color name="indigoTextCards">@color/colorTextWhite</color>
+    <color name="indigoBackground">#536DFE</color>
+    <color name="indigoCards">#8C9EFF</color>
+
+    <color name="deepPurplePrimaryDark">#6200EA</color>
+    <color name="deepPurpleToolbar">#651FFF</color>
+    <color name="deepPurpleTextToolbar">@color/colorTextWhite</color>
+    <color name="deepPurpleTextCards">@color/colorTextWhite</color>
+    <color name="deepPurpleBackground">#7C4DFF</color>
+    <color name="deepPurpleCards">#B388FF</color>
+
+    <color name="purplePrimaryDark">#AA00FF</color>
+    <color name="purpleToolbar">#D500F9</color>
+    <color name="purpleTextToolbar">@color/colorTextWhite</color>
+    <color name="purpleTextCards">@color/colorTextWhite</color>
+    <color name="purpleBackground">#E040FB</color>
+    <color name="purpleCards">#EA80FC</color>
+
+    <color name="pinkPrimaryDark">#C51162</color>
+    <color name="pinkToolbar">#F50057</color>
+    <color name="pinkTextToolbar">@color/colorTextWhite</color>
+    <color name="pinkTextCards">@color/colorTextWhite</color>
+    <color name="pinkBackground">#FF4081</color>
+    <color name="pinkCards">#FF80AB</color>
+
+    <color name="redPrimaryDark">#B71C1C</color>
+    <color name="redToolbar">#D32F2F</color>
+    <color name="redTextToolbar">@color/colorTextWhite</color>
+    <color name="redTextCards">@color/colorTextWhite</color>
+    <color name="redBackground">#F44336</color>
+    <color name="redCards">#EF5350</color>
+
+    <color name="colorPressed">#e6e6e6</color>
+    <color name="colorTextGrey">#676767</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTextBlack">#000000</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_category_one">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="checkboxPref"
+            android:summary="@string/pref_notification_summary"
+            android:title="@string/pref_notification_title"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_category_two">
+        <ListPreference
+            android:entries="@array/list_entries"
+            android:entryValues="@array/list_values"
+            android:key="Themes"
+            android:summary="@string/pref_list_themes"
+            android:title="@string/pref_themes"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/pref_info_title">
+        <Preference
+            android:key="appInfo"
+            android:title="@string/application_info_button_title"/>
+    </PreferenceCategory>
+</PreferenceScreen>

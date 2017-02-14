@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Книга рецептов</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_all">Книга рецептов</string>
+    <string name="nav_favorite">Любимые рецепты</string>
+    <string name="nav_random">Случайный рецепт</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_open_source">Open Source</string>
+    <string name="nav_exit">Выход</string>
+
+    <string name="pref_category_one">Уведомления</string>
+    <string name="pref_category_two">Прочее</string>
+    <string name="pref_themes">Темы</string>
+    <string name="pref_info_title">О программе</string>
+    <string name="application_info_button_title">Версия сборки</string>
+    <string name="pref_version">Версия приложения</string>
+    <string name="pref_version_summary">Текущая версия приложения: </string>
+    <string name="pref_notification_title">Проверка обновлений</string>
+    <string name="pref_notification_summary">Включение или выключение уведомления о проверке обновлений</string>
+    <string name="pref_list_themes">Выбор стиля приложения</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="detail_ing">Ингредиенты</string>
+    <string name="detail_recipe">Рецепт</string>
+
+    <string name="search">Поиск</string>
+    <string name="view_show">Вид карточек</string>
+
+    <string name="shake_me">Потряси меня!</string>
+    <string name="add_recipe">Добавить рецепт</string>
+    <string name="search_recipe">Найти рецепт</string>
+    <string name="hint_search">Поиск</string>
+
+    <string name="error_db">Ошибка копирования базы данных.</string>
+</resources>
